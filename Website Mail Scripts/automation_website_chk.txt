@@ -1,0 +1,19 @@
+import requests
+
+def check_website_status(websites):
+    for website in websites:
+        try:
+            response = requests.get(website)
+            # Check if the response status code is in the 2xx range (indicating success)
+            if response.status_code // 100 == 2:
+                print(f"{website} is alive (Status Code: {response.status_code})")
+            else:
+                print(f"{website} returned an unexpected status code: {response.status_code}")
+        except requests.RequestException as e:
+            print(f"{website} is not reachable. Exception: {e}")
+
+# List of websites to check
+websites_to_check = ["https://www.example.com", "https://www.google.com", "https://www.nonexistentwebsite123.com"]
+
+# Run the check
+check_website_status(websites_to_check)
