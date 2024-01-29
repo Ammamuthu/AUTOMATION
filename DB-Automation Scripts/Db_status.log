@@ -1,0 +1,45 @@
+29-01-24 14:27:48 - .....................................
+29-01-24 14:28:50 - The database on localhost:1521/xe is UP.
+29-01-24 14:28:53 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:29:53 - The database on localhost:1521/xe is UP.
+29-01-24 14:29:56 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:30:56 - The database on localhost:1521/xe is UP.
+29-01-24 14:30:59 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:31:59 - The database on localhost:1521/xe is UP.
+29-01-24 14:32:02 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:33:02 - The database on localhost:1521/xe is UP.
+29-01-24 14:33:05 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:34:05 - The database on localhost:1521/xe is UP.
+29-01-24 14:34:07 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:35:08 - The database on localhost:1521/xe is UP.
+29-01-24 14:35:10 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:36:11 - The database on localhost:1521/xe is UP.
+29-01-24 14:36:14 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:37:14 - The database on localhost:1521/xe is UP.
+29-01-24 14:37:16 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:38:17 - The database on localhost:1521/xe is UP.
+29-01-24 14:38:19 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:39:15 - .....................................
+29-01-24 14:40:15 - The database on localhost:1521/xe is UP.
+29-01-24 14:40:18 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:41:18 - The database on localhost:1521/xe is UP.
+29-01-24 14:41:21 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:41:34 - .....................................
+29-01-24 14:42:34 - The database on localhost:1521/xe is UP.
+29-01-24 14:42:37 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:43:37 - The database on localhost:1521/xe is UP.
+29-01-24 14:43:40 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:53:27 - .....................................
+29-01-24 14:54:27 - The database on localhost:1521/xe is UP.
+29-01-24 14:54:29 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:55:28 - .....................................
+29-01-24 14:56:28 - The database on localhost:1521/xe is UP.
+29-01-24 14:56:31 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:57:03 - .....................................
+29-01-24 14:58:03 - The database on localhost:1521/xe is UP.
+29-01-24 14:58:05 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 14:59:06 - The database on localhost:1521/xe is UP.
+29-01-24 14:59:08 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
+29-01-24 15:18:32 - .....................................
+29-01-24 15:19:33 - The database on localhost:1521/xe is UP.
+29-01-24 15:19:35 - The database on 10.50.1.19:1521/demo is DOWN. Error: Command 'tnsping (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.50.1.19)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=demo)))' returned non-zero exit status 1.
